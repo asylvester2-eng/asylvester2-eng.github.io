@@ -12,3 +12,4 @@ Classes that I take:
 
 Fun projects:
 ![](mymeme.jpg)
+![](Ty'sCompEducationOpera.mp3)
