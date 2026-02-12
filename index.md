@@ -1,6 +1,6 @@
 ## Welcome to Alex's website.
 
-TODO: insert picture of me (or cartoon render)
+![](file:///C:/Users/fiber/Downloads/HEADSHOTS%20SEP%202025/20250917_alex_sylvester-20-EditWEB.jpg)
 
 I study at: [Niagara University](https://niagara.edu)
 
@@ -13,6 +13,5 @@ Classes that I take:
 * THR302A
 
 
-Fun projects:
 ![](mymeme.jpg)
 [Ty's ai song](Ty'sCompEducationOpera.mp3)
