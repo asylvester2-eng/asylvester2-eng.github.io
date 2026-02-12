@@ -8,8 +8,11 @@ Classes that I take:
 * CIS 198
 * THR 415
 * DAN 311
+* THR 308A
+* REL103F
+* THR302A
 
 
 Fun projects:
 ![](mymeme.jpg)
-[ai song](Ty'sCompEducationOpera.mp3)
+[Ty's ai song](Ty'sCompEducationOpera.mp3)
