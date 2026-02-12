@@ -1,6 +1,6 @@
 ## Welcome to Alex's website.
 
-![](file:///C:/Users/fiber/Downloads/HEADSHOTS%20SEP%202025/20250917_alex_sylvester-20-EditWEB.jpg)
+![](20250917_alex_sylvester-20-EditWEB.jpg)
 
 I study at: [Niagara University](https://niagara.edu)
 
